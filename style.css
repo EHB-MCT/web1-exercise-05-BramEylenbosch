@@ -1,0 +1,34 @@
+.wrapper {
+    width: 920px;
+    margin: 0 auto;
+}
+
+.featured {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.superheroes {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+h1 {
+    color: #147beb;
+}
+
+.item {
+    position: relative;
+    float: left;
+}
+
+.wonderwoman {
+    margin-left: 20px;
+}
+
+p {
+    font-weight: bold;
+    padding-bottom: 50px;
+}
